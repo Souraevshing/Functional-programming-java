@@ -1,5 +1,5 @@
 ### Functional Programming in Java
 
-### Function interface
+## Function interface
 
-### Stream
+## Stream
